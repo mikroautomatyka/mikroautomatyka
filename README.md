@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# mikroautomatyka 
 
-You can use the [editor on GitHub](https://github.com/mikroautomatyka/mikroautomatyka/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The advanced capabilities, high speed, increased bandwidth and low latency of 5G will help inspire development of a wide variety of new use cases that include everything from massive numbers of IoT devices that use very few network resources, to smartphones with nearly infinite opportunities to use data, to more complex solutions such as AR/VR and mixed reality that will require massive computing capabilities on the edge of the network. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikroautomatyka/mikroautomatyka/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## IoT
+5G was designed specifically to support the types of massive senor grids and industrial IoT (IIOT) applications we are currently witnessing the emergence of. 
+Cutting-edge manufacturing sites, distribution centers and numerous other campus environments can benefit from the deployment of a private 5G infrastructure supporting either 4G or 5G radio access networks.
