@@ -20,6 +20,7 @@ Cutting-edge manufacturing sites, distribution centers and numerous other campus
 
 
 
+
 ---
 
 ## Tom Sapletta
@@ -28,3 +29,21 @@ Cutting-edge manufacturing sites, distribution centers and numerous other campus
 + [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
 
 ---
+
+
+## Inne tematy:
+
++ [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
++ [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
++ [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
++ [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
+
+
+
++ [edit](https://github.com/mikroautomatyka/mikroautomatyka/edit/main/README.md)
+
+```
+https://github.com/mikroautomatyka/mikroautomatyka.git
+```
+
+
